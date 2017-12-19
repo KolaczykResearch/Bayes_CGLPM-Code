@@ -1,3 +1,4 @@
+
 Bayesian Covariance Graphical And Latent Position Model
 ===============================
 
@@ -8,7 +9,8 @@ Matlab scripts to implement the experiment in the paper "A Bayesian Covariance G
 
 data folder
 --
-  Generate_Data.m - script used to generate the data for the simulation experiment in Section 3. 
+  Generate_Data.m 
+  - script used to generate the data for the simulation experiment in Section 3. 
 
 
 functions folder
