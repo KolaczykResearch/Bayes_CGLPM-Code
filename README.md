@@ -1,7 +1,5 @@
-This contains the data and functions folder with Matlab scripts to implement the 
-experiment in Ahelegbey D., Carvalho L., Kolaczyk E. (2017). 
-"A Bayesian Covariance Graphical And Latent Position Model For 
-Multivariate Financial Time Series"
+Matlab scripts to implement the experiment in Ahelegbey D., Carvalho L., Kolaczyk E. (2017). 
+"A Bayesian Covariance Graphical And Latent Position Model For Multivariate Financial Time Series"
 =======================================================================
 
 Demo.m - a scrip to implement the simulation experiment in in Section 3.
