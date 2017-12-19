@@ -4,7 +4,7 @@ Bayesian Covariance Graphical And Latent Position Model
 Matlab scripts to implement the experiment in the paper "A Bayesian Covariance Graphical And Latent Position Model For Multivariate Financial Time Series" by Ahelegbey D., Carvalho L., Kolaczyk E.
 
   Demo.m 
-  - scrip to implement the simulation experiment in in Section 3.
+  - scrip to implement the simulation experiment in Section 3.
 
 data folder
 --
