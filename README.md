@@ -34,8 +34,5 @@ functions folder
   PSRF_CONVERGENCE.m 
   - scrip for computing the Gelman and Rubin (1992) potential scale reduction factor (PSRF) convergence diagnostics of the MCMC.
 
-  Procrustean_Analysis.m 
-  - scrip for Procrustes transformation of U_1 to U_0 (with U_0 as the target)
-
   gigrnd.m 
   - scrip to implement the Devroye (2014) algorithm for sampling from the generalized inverse Gaussian (GIG) distribution
